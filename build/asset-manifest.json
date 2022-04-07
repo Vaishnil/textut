@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vaishnil/textut/static/css/main.073c9b0a.css",
+    "main.js": "/Vaishnil/textut/static/js/main.e90cf2e1.js",
+    "static/js/787.09a06e0b.chunk.js": "/Vaishnil/textut/static/js/787.09a06e0b.chunk.js",
+    "index.html": "/Vaishnil/textut/index.html",
+    "main.073c9b0a.css.map": "/Vaishnil/textut/static/css/main.073c9b0a.css.map",
+    "main.e90cf2e1.js.map": "/Vaishnil/textut/static/js/main.e90cf2e1.js.map",
+    "787.09a06e0b.chunk.js.map": "/Vaishnil/textut/static/js/787.09a06e0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e90cf2e1.js"
+  ]
+}
